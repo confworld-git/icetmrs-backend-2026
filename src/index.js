@@ -25,7 +25,8 @@ const allowedOrigins = [
   "http://localhost:5173",
   "https://backend.icetmrs.com",
   "https://icetmrs.com",
-  "http://icetmrs.com"
+  "http://icetmrs.com",
+  "https://icetmrs.infinityuniquers.com"
 ];
 
 server.use(cors({
